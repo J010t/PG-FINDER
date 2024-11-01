@@ -1,0 +1,11 @@
+# Logs
+
+.env
+node_modules/*
+
+
+# Editor directories and files
+.vscode/*
+
+mern-pg-45e9c-firebase-adminsdk-vh7bc-a0741f175b.json
+
